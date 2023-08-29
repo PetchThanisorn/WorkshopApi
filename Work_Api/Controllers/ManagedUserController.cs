@@ -14,4 +14,4 @@ namespace ReactAspWorkShop.Controllers
         public async Task<ActionResult<BaseResponse<bool>>> InsertManageUser(InsertManagedUser Execute) => Ok(await Mediator.Send(Execute));
 
     }
-}
+} //
