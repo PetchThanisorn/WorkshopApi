@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34018.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReactAspWorkShop", "ReactAspWorkShop\ReactAspWorkShop.csproj", "{0D913994-7171-46C7-AA92-1513E7C346F6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D913994-7171-46C7-AA92-1513E7C346F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D913994-7171-46C7-AA92-1513E7C346F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D913994-7171-46C7-AA92-1513E7C346F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D913994-7171-46C7-AA92-1513E7C346F6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8C21A5A7-0C59-478F-AAC2-219BD3BB91DC}
+	EndGlobalSection
+EndGlobal
